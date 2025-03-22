@@ -1,5 +1,8 @@
 # Club DAO - AI-Driven Task Management and Voting System
 
+## 🌐 Live Demo
+Check out the live project: [ClubDAO on Render](https://club-dao-delta.vercel.app/)
+
 ## Overview
 
 **Club DAO** is a decentralized application (DApp) designed for student clubs or organizations at universities. It integrates **AI-driven task management**, **voting mechanisms**, and **attendance tracking** to streamline club operations. Instead of utilizing real blockchain networks, the project simulates blockchain functionality and leverages the **Hugging Face API** for AI-powered task automation and management.
